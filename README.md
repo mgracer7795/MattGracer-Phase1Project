@@ -109,19 +109,19 @@ Number of passengers is the addition of the 4 fields (Total.Fatal.Injuries, Tota
 
 
 ### Data analysis
-![](.\Graphs\Number of Incidents per Make.png)
+![](https://github.com/mgracer7795/MattGracer-Phase1Project/blob/master/Graphs/Number%20of%20Incidents%20per%20Make.png)
 This graph shows the frequency of accidents per Manufacturer, it shows that the numbers of accidents in Cessna Piper, and Beech are significantly higher than any other manufacturer
 
-![](.\Graphs\Number of Accidents by Number of Engines.png)
+![](https://github.com/mgracer7795/MattGracer-Phase1Project/blob/master/Graphs/Number%20of%20Accidents%20by%20Number%20of%20Engines.png)
 This graph shows the distribution of accidents by number of engines. The biggest portion of airplanes that had accidents were equipped only 1 engine, when it goes to 2 engines, the number of accidents is much lower, it almost drops to zero when a plane has 3 engines
 
-![](.\Graphs\Accidents per Type of Engine.png)
+![](https://github.com/mgracer7795/MattGracer-Phase1Project/blob/master/Graphs/Accidents%20per%20Type%20of%20Engine.png)
 This graph shows the distribution of accidents over the different types of engines. The biggest portion of airplanes that had accidents were equipped with Reciprocating, Turbo Prop, and Turbo fan engines.
 
-![](.\Graphs\Average Fatality Rate per Manufacturer.png)
+![](https://github.com/mgracer7795/MattGracer-Phase1Project/blob/master/Graphs/Average%20Fatality%20Rate%20per%20Manufacturer.png)
 This graph shows the average percentage of deaths in the accidents of each manufacturer. Socata, Mitsubishi, Rans, and Lancair have the highest rates so passengers are more likely to die in case of an accident.
 
-![](.\Graphs\Average Uninjured Rate per Make.png)
+![](https://github.com/mgracer7795/MattGracer-Phase1Project/blob/master/Graphs/Average%20Uninjured%20Rate%20per%20Make.png)
 This Graph shows the average percentage of uninjured passengers in the accidents of each manufaturer. Bombardier, Mcdonnell Douglas, Airbus, and Boeing have the highest average of uninjury rate so passengers are likely to be uninjured in case of an accident.
 
 
