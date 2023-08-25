@@ -109,6 +109,9 @@ Number of passengers is the addition of the 4 fields (Total.Fatal.Injuries, Tota
 
 
 ### Data analysis
+![](https://github.com/mgracer7795/MattGracer-Phase1Project/blob/master/Graphs/Distribution%20of%20Accidents%20Over%20the%2012%20Months.png)
+This line graph shows the distribution of accidents over the months. July has the biggest portion since it is the peak of the high season.
+
 ![](https://github.com/mgracer7795/MattGracer-Phase1Project/blob/master/Graphs/Number%20of%20Incidents%20per%20Make.png)
 This graph shows the frequency of accidents per Manufacturer, it shows that the numbers of accidents in Cessna Piper, and Beech are significantly higher than any other manufacturer
 
