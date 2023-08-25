@@ -138,6 +138,10 @@ This Graph shows the average percentage of uninjured passengers in the accidents
 
 
 ## Links
+* [Presentation](https://github.com/mgracer7795/MattGracer-Phase1Project/blob/master/Aviation%20Presentation.pdf)
+
 * [Engine characteristics dashboard](https://public.tableau.com/views/EngineCharacteristics/Enginecharacteristics?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 * [Fatality and survival rates dashboard](https://public.tableau.com/views/FatalityandSurvivalRates/FatalityandSurvivalRates?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+* [Model comparison dashboard](https://github.com/mgracer7795/MattGracer-Phase1Project/blob/master/images/Dashboard%203.png)
