@@ -134,7 +134,7 @@ This Graph shows the average percentage of uninjured passengers in the accidents
 * Bombardier, Mcdonnell Douglas, Airbus, and Boeing have the highest average of uninjured passenger rates so passengers are likely to survive  an accident. These makes are to be considered.
 * Socata, Mitsubishi, Rans, and Lancair have the highest fatality rates so passengers are more likely to die in  an accident. These makes are to be avoided.
 
-__Based on these findings, we recommend commercial and cargo aviation, since these types require big airplanes with multiple engines, with McDonnell Douglas, Airbus and Boeing as manufacturers to be considered__.
+#### Based on these findings, we recommend commercial and cargo aviation, since these types require big airplanes with multiple engines, with McDonnell Douglas, Airbus and Boeing as manufacturers to be considered.
 
 
 ## Links
