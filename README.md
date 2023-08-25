@@ -70,7 +70,7 @@ The dropped columns are:
 * We dropped the rows that have zeroes in all the injury fields and the uninjured field, because this can mean that the airpcraft was empty which is misleading.
 * NaNs in the four fields of Total.Fatal.Injuries, Total.Serious.Injuries, Total.Minor.Injuries, and Total.Uninjured were replaced with zero assuming that fields were not filled because they were zeros.
 * In the fields Country, Aircraft.damage, Engine.Type, Report.Status, Weather.Condition, and 'Amateur.Built', we replaced NaNs with 'unknown'.
-* in the Number.of.Engines field, we replaced the NaNs with 0 since it is a numeric field.
+* In the Number.of.Engines field, we replaced the NaNs with 0 since it is a numeric field.
 
 
 ### Cleaned data description
@@ -122,11 +122,12 @@ This graph shows the distribution of accidents over the different types of engin
 This graph shows the average percentage of deaths in the accidents of each manufacturer. Socata, Mitsubishi, Rans, and Lancair have the highest rates so passengers are more likely to die in case of an accident.
 
 ![](https://github.com/mgracer7795/MattGracer-Phase1Project/blob/master/Graphs/Average%20Uninjured%20Rate%20per%20Make.png)
-This Graph shows the average percentage of uninjured passengers in the accidents of each manufaturer. Bombardier, Mcdonnell Douglas, Airbus, and Boeing have the highest average of uninjury rate so passengers are likely to be uninjured in case of an accident.
+This Graph shows the average percentage of uninjured passengers in the accidents of each manufacturer. Bombardier, Mcdonnell Douglas, Airbus, and Boeing have the highest average of uninjury rate so passengers are likely to be uninjured in case of an accident.
 
 
 ## Recommendations
 * Airplanes with more than one engine have less risk of accidents. 2 engines is good, but three or more is ideal.
 * The safest engine types and Geared Turbofan, then Electric, turbo shaft and turbo jet. other types like reciprocating, turbo prop, or turbo fans and jet have a much higher risk.
-* Bombardier, Mcdonnell Douglas, Airbus, and Boeing have the highest average of uninjury rate so passengers are likely to be uninjured in case of an accident. these makes are to be considered.
-* Socata, Mitsubishi, Rans, and Lancair have the highest averages of fatality rates so passengers are more likely to die in case of an accident. these makes are to be avoided.
+* Bombardier, Mcdonnell Douglas, Airbus, and Boeing have the highest average of uninjured passenger rates so passengers are likely to survive  an accident. These makes are to be considered.
+* Socata, Mitsubishi, Rans, and Lancair have the highest fatality rates so passengers are more likely to die in  an accident. These makes are to be avoided.
+* _Based on these findings, we recommend commercial and cargo aviation, since these types require big airplanes with multiple engines, with McDonnell Douglas, Airbus and Boeing as manufacturers to be considered._
